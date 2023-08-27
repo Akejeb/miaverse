@@ -58,7 +58,7 @@ body {
 }
 
 a {
-  color: var(--color-primary);
+  color: #a23030;
   text-decoration: none;
   transition: 0.3s;
 }
@@ -192,9 +192,9 @@ section {
 
 .header .logo span {
   color: var(--color-primary);
-  font-size: 24px;
+  font-size: 30px;
   font-weight: 600;
-  padding-left: 3px;
+  padding-left: 10px;
 }
 
 .header .btn-getstarted,
