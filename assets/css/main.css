@@ -58,7 +58,7 @@ body {
 }
 
 a {
-  color: #a23030;
+  color: #0092ac;
   text-decoration: none;
   transition: 0.3s;
 }
@@ -104,7 +104,7 @@ section {
   content: "";
   width: 50px;
   height: 2px;
-  background: var(--color-primary);
+  background: #0092ac;
   display: inline-block;
 }
 
@@ -264,7 +264,7 @@ section {
 /* Home Page Custom Header on page scroll
 ------------------------------*/
 .index-page.scrolled .header {
-  --color-background: #ffffff;
+  --color-background: #0092ac;
   --color-secondary: #444444;
   --color-nav: #444444;
   --color-nav-hover: #d83535;
@@ -497,7 +497,7 @@ section {
   .navmenu a:hover,
   .navmenu .active,
   .navmenu .active:focus {
-    color: var(--color-nav-dropdown-hover);
+    color: #0092ac;
   }
 
   .navmenu .active i,
@@ -566,7 +566,7 @@ section {
   right: 15px;
   bottom: 15px;
   z-index: 99999;
-  background-color: var(--color-primary);
+  background-color: #0092ac;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -1292,7 +1292,7 @@ section {
 .portfolio .portfolio-filters li:hover,
 .portfolio .portfolio-filters li.filter-active {
   color: var(--color-inverse);
-  background-color: var(--color-primary);
+  background-color: #0092ac;
 }
 
 .portfolio .portfolio-filters li:first-child {
