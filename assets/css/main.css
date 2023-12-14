@@ -679,7 +679,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 .footer {
-  --color-background: #f4f4f4;
+  --color-background: #87B13F;
   --color-box-background: #eaeaea;
   color: var(--color-default);
   background-color: var(--color-background);
