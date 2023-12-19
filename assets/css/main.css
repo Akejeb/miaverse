@@ -679,7 +679,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 .footer {
-  --color-background: #87B13F;
+  --color-background: #f4f4f4;
   --color-box-background: #eaeaea;
   color: var(--color-default);
   background-color: var(--color-background);
@@ -796,6 +796,7 @@ section {
   font-size: 13px;
 }
 
+
 /*--------------------------------------------------------------
 # Home Page
 --------------------------------------------------------------*/
@@ -816,6 +817,18 @@ section {
 }
 
 .hero img {
+  position: relative;
+  inset: 0;
+  display: block;
+  max-width: 40%;
+  height: auto;
+  -o-object-fit: contain;
+  object-fit: cover;
+  z-index: 1;
+}
+
+
+.miaverse img {
   position: relative;
   inset: 0;
   display: block;
