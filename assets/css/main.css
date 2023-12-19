@@ -819,7 +819,7 @@ section {
   position: relative;
   inset: 0;
   display: block;
-  max-width: 100%;
+  max-width: 40%;
   height: auto;
   -o-object-fit: contain;
   object-fit: cover;
