@@ -894,7 +894,13 @@ section {
 .hero .sign-up-form input[type=submit]:hover {
   background-color: rgba(var(--color-primary-rgb), 0.9);
 }
-
+/* .col-lg-6 {
+  padding-left: 2%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  max-width: 50%;
+}
+ */
 @media (max-width: 768px) {
   .hero h2 {
     font-size: 32px;
