@@ -188,7 +188,7 @@ section {
   margin: 0;
   font-weight: 600;
   color: #000000;
-  margin-left: 60px;
+  margin-left: auto;
 }
 
 .header .logo span {
@@ -938,6 +938,12 @@ section {
 ------------------------------*/
 .clients {
   padding: 10px 0;
+}
+
+.clients .row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .clients .client-logo {
