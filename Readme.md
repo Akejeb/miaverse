@@ -1,4 +1,6 @@
-## To update the
+# miaverse
+
+## Development and and updating
 
 1. Fork the project
 2. Clone your fork
