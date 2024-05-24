@@ -12,6 +12,8 @@
 
 ## Updating the html
 
-This only html and asset files. The asset directory has four sub directories where the main css file and images subdirectories are found.
-After cloning open the clone using visual studio code or sublime text or any other editors.
-In order to edit the html use only the `index.html` file. Each section of the website is indicated as very well and written where it started and ended.
+The project consists of HTML and asset files. The asset directory contains four subdirectories, which include the main CSS file and an images subdirectory.
+
+After cloning the repository, open the cloned project using an editor such as Visual Studio Code, Sublime Text, or any other code editor of your choice.
+
+To edit the HTML, use only the index.html file. Each section of the website is clearly marked with comments indicating where it starts and ends.
