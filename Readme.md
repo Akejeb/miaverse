@@ -16,4 +16,4 @@ The project consists of HTML and asset files. The asset directory contains four 
 
 After cloning the repository, open the cloned project using an editor such as Visual Studio Code, Sublime Text, or any other code editor of your choice.
 
-To edit the HTML, use only the index.html file. Each section of the website is clearly marked with comments indicating where it starts and ends.
+To edit the HTML, use only the `index.html` file. Each section of the website is clearly marked with comments indicating where it starts and ends.
